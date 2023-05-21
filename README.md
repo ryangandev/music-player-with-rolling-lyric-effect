@@ -1,2 +1,2 @@
-# music-player-with-syncing-lyric
- A simple static music player with syncing lyrics 
+# music-player-with-rolling-lyric-effect
+ A simple static music player with sync'ed rolling lyrics effect
