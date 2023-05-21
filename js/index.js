@@ -124,3 +124,4 @@ function findIndex() {
  }
 
  doms.audio.addEventListener('timeupdate', setOffset);
+ 
